@@ -19,6 +19,6 @@
 7. context root设置为／
 8. 部署启动项目
 9. IE访问:http://localhost:8080/
-10. 用户名:xiaozhun1223@163.com 密码：888888
+10. 用户名:xiaozhun1223@163.com 密码：123456
 
 
